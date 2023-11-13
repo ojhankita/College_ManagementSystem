@@ -1,0 +1,237 @@
+21:50:56,244  INFO AdminOperation,main:36 - Verifying Credentials...
+21:51:35,882  INFO AdminOperation,main:36 - Verifying Credentials...
+21:51:35,883  INFO AdminOperation,main:54 - Retrieving user type
+21:51:35,887  INFO StudentOperation,main:47 - isApproved()
+21:51:35,888 DEBUG StudentOperation,main:48 - 1
+21:51:41,672  INFO StudentOperation,main:91 - getCourses()
+21:51:41,673 DEBUG StudentOperation,main:92 - 1
+21:52:10,566  INFO AdminOperation,main:36 - Verifying Credentials...
+21:52:10,971  INFO AdminOperation,main:54 - Retrieving user type
+21:52:10,973  INFO StudentOperation,main:47 - isApproved()
+21:52:10,974 DEBUG StudentOperation,main:48 - 1
+21:52:14,037  INFO StudentOperation,main:77 - getRegisteredCourses()
+21:52:14,037 DEBUG StudentOperation,main:78 - 1
+21:55:24,832  INFO AdminOperation,main:36 - Verifying Credentials...
+21:55:25,236  INFO AdminOperation,main:54 - Retrieving user type
+21:55:25,238  INFO StudentOperation,main:47 - isApproved()
+21:55:25,238 DEBUG StudentOperation,main:48 - 1
+21:55:28,249  INFO StudentOperation,main:77 - getRegisteredCourses()
+21:55:28,250 DEBUG StudentOperation,main:78 - 1
+21:57:59,866  INFO StudentOperation,main:77 - getRegisteredCourses()
+21:57:59,866 DEBUG StudentOperation,main:78 - 1
+21:59:25,770  INFO StudentOperation,main:167 - registerForCourses()
+21:59:25,770 DEBUG StudentOperation,main:168 - 1
+21:59:29,894  INFO StudentOperation,main:91 - getCourses()
+21:59:29,894 DEBUG StudentOperation,main:92 - 1
+23:14:13,091  INFO AdminOperation,main:36 - Verifying Credentials...
+23:14:13,226  INFO AdminOperation,main:54 - Retrieving user type
+23:14:36,541  INFO AdminDaoOperation,main:48 - Professor successfully added by ADMIN
+23:16:40,788  INFO AdminOperation,main:36 - Verifying Credentials...
+23:16:40,924  INFO AdminOperation,main:54 - Retrieving user type
+23:16:40,926  INFO StudentOperation,main:47 - isApproved()
+23:16:40,926 DEBUG StudentOperation,main:48 - 1
+01:11:02,177  INFO AdminOperation,main:36 - Verifying Credentials...
+01:11:02,430  INFO AdminOperation,main:54 - Retrieving user type
+01:11:02,432  INFO StudentOperation,main:49 - isApproved()
+01:11:02,433 DEBUG StudentOperation,main:50 - 1
+01:11:05,927  INFO StudentOperation,main:63 - makePayment()
+01:11:05,928 DEBUG StudentOperation,main:64 - 1 1
+01:11:05,980  INFO StudentOperation,main:68 - Payment Already Done
+01:11:58,536  INFO StudentOperation,main:36 - register()
+01:11:58,536 DEBUG StudentOperation,main:37 - PK CSE Delhi
+01:12:17,421  INFO AdminOperation,main:36 - Verifying Credentials...
+01:12:17,422  INFO AdminOperation,main:54 - Retrieving user type
+01:12:17,423  INFO StudentOperation,main:49 - isApproved()
+01:12:17,424 DEBUG StudentOperation,main:50 - 3
+01:12:24,991  INFO AdminOperation,main:36 - Verifying Credentials...
+01:12:24,993  INFO AdminOperation,main:54 - Retrieving user type
+01:12:44,205  INFO AdminDaoOperation,main:64 - Student successfully approved by ADMIN
+01:12:58,235  INFO AdminOperation,main:36 - Verifying Credentials...
+01:12:58,241  INFO AdminOperation,main:54 - Retrieving user type
+01:12:58,243  INFO StudentOperation,main:49 - isApproved()
+01:12:58,244 DEBUG StudentOperation,main:50 - 3
+01:13:07,377  INFO StudentOperation,main:63 - makePayment()
+01:13:07,378 DEBUG StudentOperation,main:64 - 3 1
+01:13:07,384  INFO StudentOperation,main:68 - Payment Approved
+01:25:33,020  INFO AdminOperation,main:36 - Verifying Credentials...
+01:25:33,252  INFO AdminOperation,main:54 - Retrieving user type
+01:25:33,254  INFO StudentOperation,main:49 - isApproved()
+01:25:33,255 DEBUG StudentOperation,main:50 - 3
+01:25:35,672  INFO StudentOperation,main:83 - getRegisteredCourses()
+01:25:35,672 DEBUG StudentOperation,main:84 - 3
+01:31:24,584  INFO AdminOperation,main:36 - Verifying Credentials...
+01:31:24,812  INFO AdminOperation,main:54 - Retrieving user type
+01:31:24,815  INFO StudentOperation,main:49 - isApproved()
+01:31:24,815 DEBUG StudentOperation,main:50 - 3
+01:31:29,079  INFO StudentOperation,main:83 - getRegisteredCourses()
+01:31:29,079 DEBUG StudentOperation,main:84 - 3
+01:31:34,391  INFO StudentOperation,main:83 - getRegisteredCourses()
+01:31:34,392 DEBUG StudentOperation,main:84 - 3
+01:31:35,639  INFO StudentOperation,main:136 - dropCourse()
+01:31:35,639 DEBUG StudentOperation,main:137 - 3 1
+01:31:38,319  INFO StudentOperation,main:83 - getRegisteredCourses()
+01:31:38,320 DEBUG StudentOperation,main:84 - 3
+01:31:59,691  INFO StudentOperation,main:63 - makePayment()
+01:31:59,691 DEBUG StudentOperation,main:64 - 3 1
+01:35:30,784  INFO AdminOperation,main:36 - Verifying Credentials...
+01:35:31,037  INFO AdminOperation,main:54 - Retrieving user type
+01:35:31,040  INFO StudentOperation,main:49 - isApproved()
+01:35:31,040 DEBUG StudentOperation,main:50 - 3
+09:52:08,842  INFO StudentOperation,main:36 - register()
+09:52:08,883 DEBUG StudentOperation,main:37 - Abhinav Saxena cs faridabad
+09:52:19,863  INFO AdminOperation,main:36 - Verifying Credentials...
+09:52:19,864  INFO AdminOperation,main:54 - Retrieving user type
+09:52:55,758  INFO AdminDaoOperation,main:64 - Student successfully approved by ADMIN
+09:53:12,575  INFO AdminOperation,main:36 - Verifying Credentials...
+09:53:12,576  INFO AdminOperation,main:54 - Retrieving user type
+09:53:12,577  INFO StudentOperation,main:49 - isApproved()
+09:53:12,577 DEBUG StudentOperation,main:50 - 4
+09:53:18,748  INFO StudentOperation,main:97 - getCourses()
+09:53:18,748 DEBUG StudentOperation,main:98 - 1
+09:53:24,160  INFO StudentOperation,main:113 - addCourse()
+09:53:24,160 DEBUG StudentOperation,main:114 - 4 1
+09:53:27,879  INFO StudentOperation,main:97 - getCourses()
+09:53:27,880 DEBUG StudentOperation,main:98 - 1
+09:53:29,068  INFO StudentOperation,main:113 - addCourse()
+09:53:29,068 DEBUG StudentOperation,main:114 - 4 5
+09:53:34,416  INFO StudentOperation,main:97 - getCourses()
+09:53:34,416 DEBUG StudentOperation,main:98 - 1
+09:53:37,983  INFO StudentOperation,main:113 - addCourse()
+09:53:37,984 DEBUG StudentOperation,main:114 - 4 6
+09:53:48,186  INFO AdminOperation,main:36 - Verifying Credentials...
+09:53:48,187  INFO AdminOperation,main:54 - Retrieving user type
+09:53:59,998  INFO AdminDaoOperation,main:80 - Course successfully added by ADMIN
+09:54:08,736  INFO AdminDaoOperation,main:80 - Course successfully added by ADMIN
+09:54:17,855  INFO AdminDaoOperation,main:80 - Course successfully added by ADMIN
+09:54:28,484  INFO AdminDaoOperation,main:80 - Course successfully added by ADMIN
+09:54:40,780  INFO AdminOperation,main:36 - Verifying Credentials...
+09:54:40,781  INFO AdminOperation,main:54 - Retrieving user type
+09:54:40,782  INFO StudentOperation,main:49 - isApproved()
+09:54:40,782 DEBUG StudentOperation,main:50 - 4
+09:54:47,057  INFO StudentOperation,main:97 - getCourses()
+09:54:47,057 DEBUG StudentOperation,main:98 - 4
+09:54:53,060  INFO StudentOperation,main:83 - getRegisteredCourses()
+09:54:53,060 DEBUG StudentOperation,main:84 - 4
+09:55:29,456  INFO StudentOperation,main:97 - getCourses()
+09:55:29,456 DEBUG StudentOperation,main:98 - 1
+09:55:35,126  INFO StudentOperation,main:113 - addCourse()
+09:55:35,127 DEBUG StudentOperation,main:114 - 4 7
+09:55:40,607  INFO StudentOperation,main:97 - getCourses()
+09:55:40,608 DEBUG StudentOperation,main:98 - 1
+09:55:42,561  INFO StudentOperation,main:113 - addCourse()
+09:55:42,562 DEBUG StudentOperation,main:114 - 4 8
+09:55:48,056  INFO StudentOperation,main:97 - getCourses()
+09:55:48,057 DEBUG StudentOperation,main:98 - 4
+09:59:19,693  INFO StudentOperation,main:83 - getRegisteredCourses()
+09:59:19,694 DEBUG StudentOperation,main:84 - 4
+09:59:26,133  INFO StudentOperation,main:97 - getCourses()
+09:59:26,133 DEBUG StudentOperation,main:98 - 1
+09:59:29,009  INFO StudentOperation,main:113 - addCourse()
+09:59:29,010 DEBUG StudentOperation,main:114 - 4 10
+10:00:13,965  INFO AdminOperation,main:36 - Verifying Credentials...
+10:00:13,966  INFO AdminOperation,main:54 - Retrieving user type
+10:00:23,099  INFO AdminDaoOperation,main:117 - Course successfully approved by ADMIN
+10:00:49,732  INFO AdminOperation,main:36 - Verifying Credentials...
+10:00:49,733  INFO AdminOperation,main:54 - Retrieving user type
+10:00:49,734  INFO StudentOperation,main:49 - isApproved()
+10:00:49,734 DEBUG StudentOperation,main:50 - 4
+10:00:56,088  INFO StudentOperation,main:97 - getCourses()
+10:00:56,088 DEBUG StudentOperation,main:98 - 4
+10:00:57,512  INFO StudentOperation,main:83 - getRegisteredCourses()
+10:00:57,512 DEBUG StudentOperation,main:84 - 4
+10:01:46,017  INFO AdminOperation,main:36 - Verifying Credentials...
+10:01:46,348  INFO AdminOperation,main:54 - Retrieving user type
+10:01:46,351  INFO StudentOperation,main:49 - isApproved()
+10:01:46,352 DEBUG StudentOperation,main:50 - 4
+10:01:49,656  INFO StudentOperation,main:97 - getCourses()
+10:01:49,656 DEBUG StudentOperation,main:98 - 4
+10:03:57,915  INFO AdminOperation,main:36 - Verifying Credentials...
+10:04:04,721  INFO AdminOperation,main:36 - Verifying Credentials...
+10:04:04,722  INFO AdminOperation,main:54 - Retrieving user type
+10:04:04,725  INFO StudentOperation,main:49 - isApproved()
+10:04:04,726 DEBUG StudentOperation,main:50 - 4
+10:08:23,823  INFO StudentOperation,main:97 - getCourses()
+10:08:23,824 DEBUG StudentOperation,main:98 - 1
+10:08:52,852  INFO AdminOperation,main:36 - Verifying Credentials...
+10:08:53,198  INFO AdminOperation,main:54 - Retrieving user type
+10:08:53,201  INFO StudentOperation,main:49 - isApproved()
+10:08:53,201 DEBUG StudentOperation,main:50 - 4
+10:09:02,071  INFO StudentOperation,main:97 - getCourses()
+10:09:02,071 DEBUG StudentOperation,main:98 - 1
+10:09:11,486  INFO StudentOperation,main:173 - registerForCourses()
+10:09:11,487 DEBUG StudentOperation,main:174 - 4
+10:10:22,220  INFO AdminOperation,main:36 - Verifying Credentials...
+10:10:22,221  INFO AdminOperation,main:54 - Retrieving user type
+10:10:22,224  INFO StudentOperation,main:49 - isApproved()
+10:10:22,225 DEBUG StudentOperation,main:50 - 4
+10:10:25,235  INFO StudentOperation,main:63 - makePayment()
+10:10:25,235 DEBUG StudentOperation,main:64 - 4 1
+10:10:25,303  INFO StudentOperation,main:68 - Payment Approved
+10:34:10,060  INFO AdminOperation,main:36 - Verifying Credentials...
+10:34:10,202  INFO AdminOperation,main:54 - Retrieving user type
+10:34:32,268  INFO AdminDaoOperation,main:80 - Course successfully added by ADMIN
+10:34:44,489  INFO AdminDaoOperation,main:97 - Course successfully deleted by ADMIN
+10:35:31,219  INFO AdminDaoOperation,main:80 - Course successfully added by ADMIN
+10:36:03,774  INFO AdminDaoOperation,main:97 - Course successfully deleted by ADMIN
+10:36:10,436  INFO AdminOperation,main:36 - Verifying Credentials...
+10:36:10,437  INFO AdminOperation,main:54 - Retrieving user type
+10:36:10,440  INFO StudentOperation,main:49 - isApproved()
+10:36:10,440 DEBUG StudentOperation,main:50 - 4
+10:36:14,704  INFO StudentOperation,main:97 - getCourses()
+10:36:14,704 DEBUG StudentOperation,main:98 - 5
+10:36:26,048  INFO AdminOperation,main:36 - Verifying Credentials...
+10:36:26,049  INFO AdminOperation,main:54 - Retrieving user type
+10:36:37,224  INFO AdminOperation,main:36 - Verifying Credentials...
+10:36:44,568  INFO AdminOperation,main:36 - Verifying Credentials...
+10:36:44,571  INFO AdminOperation,main:54 - Retrieving user type
+10:36:44,573  INFO StudentOperation,main:49 - isApproved()
+10:36:44,574 DEBUG StudentOperation,main:50 - 4
+10:36:50,400  INFO StudentOperation,main:97 - getCourses()
+10:36:50,400 DEBUG StudentOperation,main:98 - 1
+10:36:58,977  INFO StudentOperation,main:113 - addCourse()
+10:36:58,977 DEBUG StudentOperation,main:114 - 4 9
+10:37:25,619  INFO StudentOperation,main:36 - register()
+10:37:25,620 DEBUG StudentOperation,main:37 - Ayush cs haryana
+10:37:34,220  INFO AdminOperation,main:36 - Verifying Credentials...
+10:37:34,221  INFO AdminOperation,main:54 - Retrieving user type
+10:37:34,221  INFO StudentOperation,main:49 - isApproved()
+10:37:34,222 DEBUG StudentOperation,main:50 - 5
+10:37:47,028  INFO AdminOperation,main:36 - Verifying Credentials...
+10:37:47,029  INFO AdminOperation,main:54 - Retrieving user type
+10:38:03,894  INFO AdminDaoOperation,main:64 - Student successfully approved by ADMIN
+10:38:16,139  INFO AdminOperation,main:36 - Verifying Credentials...
+10:38:16,140  INFO AdminOperation,main:54 - Retrieving user type
+10:38:16,140  INFO StudentOperation,main:49 - isApproved()
+10:38:16,140 DEBUG StudentOperation,main:50 - 5
+10:38:23,684  INFO StudentOperation,main:97 - getCourses()
+10:38:23,684 DEBUG StudentOperation,main:98 - 1
+10:38:27,512  INFO StudentOperation,main:113 - addCourse()
+10:38:27,512 DEBUG StudentOperation,main:114 - 5 1
+10:38:34,728  INFO AdminOperation,main:36 - Verifying Credentials...
+10:38:34,728  INFO AdminOperation,main:54 - Retrieving user type
+10:38:40,574  INFO AdminDaoOperation,main:117 - Course successfully approved by ADMIN
+10:39:09,189  INFO AdminDaoOperation,main:48 - Professor successfully added by ADMIN
+10:39:28,399  INFO AdminOperation,main:36 - Verifying Credentials...
+10:39:28,400  INFO AdminOperation,main:54 - Retrieving user type
+10:39:28,401  INFO StudentOperation,main:49 - isApproved()
+10:39:28,401 DEBUG StudentOperation,main:50 - 1
+10:39:35,252  INFO AdminOperation,main:36 - Verifying Credentials...
+10:39:57,698  INFO AdminOperation,main:36 - Verifying Credentials...
+10:39:57,699  INFO AdminOperation,main:54 - Retrieving user type
+10:39:57,714  INFO ProfessorOperation,main:112 - getProfID inside ProfessorDAOOperation
+10:39:57,714 DEBUG ProfessorOperation,main:113 - User id = 10
+10:39:57,714  INFO ProfessorOperation,main:122 - Successfully retrieved ProfId
+10:40:02,200  INFO ProfessorOperation,main:95 - Successfully retrieved list of courses
+10:40:43,211  INFO AdminOperation,main:36 - Verifying Credentials...
+10:40:43,212  INFO AdminOperation,main:54 - Retrieving user type
+10:41:08,827  INFO AdminDaoOperation,main:80 - Course successfully added by ADMIN
+10:41:16,581  INFO AdminOperation,main:36 - Verifying Credentials...
+10:41:20,579  INFO AdminOperation,main:36 - Verifying Credentials...
+10:41:20,580  INFO AdminOperation,main:54 - Retrieving user type
+10:41:20,581  INFO ProfessorOperation,main:112 - getProfID inside ProfessorDAOOperation
+10:41:20,581 DEBUG ProfessorOperation,main:113 - User id = 10
+10:41:20,583  INFO ProfessorOperation,main:122 - Successfully retrieved ProfId
+10:41:22,549  INFO ProfessorOperation,main:95 - Successfully retrieved list of courses
+10:41:30,292  INFO ProfessorOperation,main:67 - Successfully retrieved list of students
+14:38:50,533  INFO AdminOperation,main:36 - Verifying Credentials...
+14:38:50,685  INFO AdminOperation,main:54 - Retrieving user type
